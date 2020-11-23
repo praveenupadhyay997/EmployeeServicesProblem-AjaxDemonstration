@@ -14,7 +14,7 @@ function showTime() {
 }
 /**
  * Function to follow the three steps of the AJAX call method
- * @param {*deoending upon the call type can be GET or POST or PUT or DELETE} methodType 
+ * @param {*depending upon the call type can be GET or POST or PUT or DELETE} methodType 
  * @param {*local host url on top of which our json server is hosting the database} url 
  * @param {*to be set true or false depending on whether call is synchronous or asynchronous} async 
  */
